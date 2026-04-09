@@ -9,8 +9,6 @@ It automatically:
 * Uploads them securely to AWS S3
 * Sends an email notification after completion
 
-# Architecture
-![Architecture](images/backup-architecture.svg)
 
 ---
 
