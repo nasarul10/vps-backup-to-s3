@@ -10,7 +10,7 @@ It automatically:
 * Sends an email notification after completion
 
 # Architecture
-![Architecture](images/backup-architecture.svg)
+![Architecture](images/backup-architecture.sv)
 
 ---
 
